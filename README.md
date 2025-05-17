@@ -42,3 +42,6 @@ query the `movies` collection to
 
 # screenshot 9
 ![Image](https://github.com/user-attachments/assets/0e6967da-5703-4380-8053-1310f7504d01)
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/0114f887-de27-47bc-baf1-1b6f97ea1849)
